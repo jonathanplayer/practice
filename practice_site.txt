@@ -9,5 +9,7 @@ Hi. My name is Jonathan Player and this is my practice site. As I contemplate ho
 
 5/29/21 Well, I can't sleep. So I'm guessing it's "attempt to blog" time. I think a ton. If I could simply record my thoughts as they flow, I wonder if that'd be grand. There's a sort of disconnect even between my thoughts and speaking up. How much more so in the process of trying to type it all out. But that's what I keep imagining to endeavor so here I am. Just writing mess in the dark until I get to something meaningful. The course I am following has reached the css phase. So perhaps I could start adding html to this site, but I just don't feel like it yet. There's nothing here to format so why bother. Maybe I'll follow the instructions to publish this so that it's out there and I can no longer hide.
 
+One ramshackle babystep at a time. How many mistakes did I make to even ge tthis text to appear? About 6.
+
 	</body>
-<html>
+</html>
